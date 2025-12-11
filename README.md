@@ -7,7 +7,7 @@
 *Meta-cognitive Adaptive Chain-of-thought with Evidence-based Reasoning*
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-green.svg)](https://github.com/langchain-ai/langgraph)
 [![Neo4j](https://img.shields.io/badge/Neo4j-Knowledge_Graph-008CC1.svg)](https://neo4j.com/)
 
@@ -428,7 +428,7 @@ We believe in the power of open source to accelerate innovation. Ontology Reason
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
