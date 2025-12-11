@@ -1,0 +1,14 @@
+{
+  "$schema": "https://langchain-ai.github.io/langgraph/schemas/langgraph.json",
+  "graphs": {
+    "macer": {
+      "path": "./src/langgraph_server/graph.py:graph",
+      "description": "ToG 3.0 MACER Reasoning Workflow - Constructor → Retriever → Reflector → Responser"
+    }
+  },
+  "env": ".env",
+  "dependencies": ["."],
+  "auth": {
+    "disable": true
+  }
+}

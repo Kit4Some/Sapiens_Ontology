@@ -1,0 +1,97 @@
+# =============================================================================
+# Docker Ignore File
+# =============================================================================
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Documentation
+docs/_build/
+*.md
+!README.md
+
+# Desktop app (not needed in API container)
+desktop/
+*.exe
+*.dmg
+*.AppImage
+
+# CI/CD
+.github/
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+.docker/
+
+# Logs
+*.log
+logs/
+
+# Local development
+.env.local
+.env.*.local
+*.local
+
+# Test data
+tests/
+test_data/
+
+# Misc
+*.bak
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
