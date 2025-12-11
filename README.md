@@ -15,6 +15,8 @@
 
 **Built with ❤️ by Kit4Some & [sapiens.team](https://sapiens.team)**
 
+<img width="845" height="411" alt="image" src="https://github.com/user-attachments/assets/8afbd656-7faf-457e-aa5b-d215095c6fa3" />
+
 </div>
 
 ---
